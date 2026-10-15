@@ -1,0 +1,19 @@
+```gitignore
+# Ambiente virtual
+.venv/
+venv/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Dados financeiros pessoais
+movimentacoes.csv
+
+# Arquivos temporarios
+*.tmp
+*.log
+
+# Configuracoes locais do VS Code
+.vscode/
+```
